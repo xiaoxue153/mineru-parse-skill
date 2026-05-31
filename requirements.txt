@@ -1,0 +1,8 @@
+mineru>=3.0
+torch
+torchvision
+transformers<5
+shapely
+pyclipper
+six
+ftfy
